@@ -2,8 +2,8 @@
 ### Harboring Innovation in AIS Education! MAY 16-17, 2023│ Boston, Massachusetts 
 
 
-This repository contains the files, exercises and slides shared in my presentation.
-You can acess the notebooks on Google Collab in the links below or you can clone or download the repository and run the codes on a local machine, github codespaces, etc.
+This repository contains the files, exercises, and slides shared in my presentation. You can access the notebooks on Google Collab in the links below or clone or download the repository and run the codes on a local machine, GitHub codespaces, etc.
+
 
 ## Presentation
 [Presentation Slides](Presentation.pptx)
