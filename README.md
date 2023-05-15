@@ -1,6 +1,5 @@
 # 2023 Accounting Information Systems Bootcamp
-Harboring Innovation in AIS Education!
-MAY 16-17, 2023│ Boston, Massachusetts 
+## Harboring Innovation in AIS Education! MAY 16-17, 2023│ Boston, Massachusetts 
 
 This repository contains the files, exercises and slides shared in my presentation.
 
